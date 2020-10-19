@@ -1,4 +1,4 @@
-### Payout Calculator
+### Pending Payout Calculator
 
 
 Written in rust for high performance thing which might be over kill for this :D
